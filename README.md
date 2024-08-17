@@ -1,2 +1,2 @@
 # Memory-Game
-Jogo da memória feito utilizando HTML, CSS e Javascrip puros. Com o intuito de aprender e praticar minhas habilidades. Ele foi feito dentro de um bootcamp da DIO chamado TQI Fullstack Developer. 
+Desenvolvi um jogo da memória utilizando HTML, CSS e JavaScript puro como parte do bootcamp TQI Fullstack Developer da DIO. O projeto foi feito com o objetivo de fortalecer e praticar minhas habilidades.
